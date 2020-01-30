@@ -1,0 +1,73 @@
+ 1580  git -Version
+ 1581  git -V
+ 1582  git --version
+ 1589  git init
+ 1590  git add README.md
+ 1591  git commit -m "first commit"
+ 1592  git remote add origin https://github.com/karthik-karotra/GitDemo.git
+ 1593  git push -u origin master
+ 1596  git config --global user.name "karthik-karotra"
+ 1607  git init
+ 1608  git add .
+ 1609  git status
+ 1610  git commit -m "first commit"
+ 1611  git push origin master
+ 1612  git remote add origin https://github.com/karthik-karotra/GitDemo.git
+ 1613  git push origin master
+ 1619  git config --global user.name "karthik-karotra"
+ 1621  git add .
+ 1622  git commit -m "msg"
+ 1623  git push
+ 1624  git push -u origin master
+ 1630  git init
+ 1631  git add README.md
+ 1632  git commit -m "first commit"
+ 1633  git remote add origin https://github.com/karthik-karotra/GitPractise.git
+ 1634  git push -u origin master
+ 1637  git add .
+ 1638  git commit -m "first"
+ 1639  git remote add origin https://github.com/karthik-karotra/GitPractise.git\
+ 1640  git remote add origin https://github.com/karthik-karotra/GitPractise.git
+ 1641  git push -u origin master
+ 1642  git config --global user.name "karthik-karotra"
+ 1643  git add .
+ 1644  git commit -m "first"
+ 1645  git push -u origin master
+ 1649  git push -u origin master
+ 1650  git add .
+ 1651  git commit -m "Hello"
+ 1652  git push 
+ 1653  git pull origin master
+ 1655  git add .
+ 1656  git commit -m "Hello"
+ 1657  git push 
+ 1658  git pull 
+ 1660  git add .
+ 1661  git status
+ 1662  git commit -m "4"
+ 1663  git push 
+ 1664  git pull 
+ 1666  git push 
+ 1667  git pull 
+ 1669  git add .
+ 1670  git commit -m "6"
+ 1671  git push 
+ 1672  git branch
+ 1673  git branch feature
+ 1674  git branch
+ 1675  git checkout feature
+ 1676  git branch
+ 1677  git checkout master
+ 1678  git branch
+ 1679  git pull origin master
+ 1680  git checkout feature
+ 1681  git merge master
+ 1682  git push origin feature
+ 1683  git checkout feature
+ 1685  git add .
+ 1686  git commit -m "Add"
+ 1687  git push origin feature
+ 1688  git checkout master
+ 1689  git merge feature
+ 1690  git push origin master
+ 1691  history |grep git > gitcommands.txt

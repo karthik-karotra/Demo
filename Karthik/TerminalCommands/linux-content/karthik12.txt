@@ -1,0 +1,883 @@
+    1  sudo su
+    2  apt-get install git
+    3  sudo apt install git-all
+    4  clear
+    5  git init pgm
+    6  git add README.md
+    7  git status
+    8  git branch
+    9  git commit -m "first commit"
+   10  git remote add origin https://github.com/ankitnandivkar/functional.git
+   11  git branch
+   12  sudo
+   13  clear
+   14  sudo su
+   15  echo "# functional" >> README.md
+   16  sudo su
+   17  git remote add origin https://github.com/patil-priyanka/java-program.git
+   18  git commit -m "first commit"
+   19  git init
+   20  git add .
+   21  git commit -m "first commit"
+   22  git remote add origin https://github.com/patil-priyanka/java-program.git
+   23  git remote set-url origin https://github.com/patil-priyanka/java-program.git
+   24  git commit -m "first commit"
+   25  git init
+   26  git commit -m "first commit"
+   27  git init
+   28  git commit -m "first commit"
+   29  git remote add origin https://github.com/patil-priyanka/java-program.git
+   30  git remote set-url origin https://github.com/patil-priyanka/java-program.git
+   31  get init
+   32  git init
+   33  git add .
+   34  git commit -m "first commit"
+   35  git remote add origin https://github.com/patil-priyanka/java-program.git
+   36  git init
+   37  git remote add origin https://github.com/patil-priyanka/java-program.git
+   38  git remote set-url origin https://github.com/patil-priyanka/java-program.git
+   39  git commit -m "first commit"
+   40  git reset --hard origin/master
+   41  git fetch
+   42  git reset --hard origin/master
+   43  git commit -m "first commit"
+   44  git fetch
+   45  git commit -m "first commit"
+   46  git remote add origin https://github.com/patil-priyanka/java-program.git
+   47  git remote set-url origin https://github.com/patil-priyanka/java-program.git
+   48  git commit -m "first commit"
+   49  git fetch
+   50  git commit -m "first commit"
+   51  git reset --hard origin/master
+   52  sudo git reset --hard origin/master
+   53  cat ~/.gitconfig
+   54  git init
+   55  git add .
+   56  git init
+   57  git commit -m "bootcampt programs added"\
+   58  git commit -m "bootcampt programs added"
+   59  git config --global user.email "samidhaparde2017@gmail.com"
+   60  git config --global user.user.name "ssamidha"
+   61  git remote add origin https://github.com/ssamidha/BootcampPrograms.git
+   62  git push -u origin master
+   63  git remote add origin https://github.com/ssamidha/BootcampPrograms.git
+   64  git push -u origin master
+   65  git init
+   66  git add .
+   67  git status
+   68  git commit -m "bootcampt programs added"
+   69  git remote add origin https://github.com/ssamidha/BootcampPrograms.git
+   70  git push -u origin master
+   71  git commit -m "basic program added"
+   72  git push -u origin master
+   73  git remote add origin https://github.com/ssamidha/bootCamp.git
+   74  git push -u origin master
+   75  git init
+   76  git add .
+   77  git commit -m "folder added"
+   78  git remote add origin https://github.com/ssamidha/BootCamp1.git
+   79  git push -u origin master
+   80  git init
+   81  git add .
+   82  git status
+   83  git commit
+   84  git init
+   85  git add .
+   86  git status
+   87  git commit -m "bootcamp programs added"
+   88  git remote add origin https://github.com/ssamidha/BootCampPrograms.git
+   89  git init
+   90  git add .
+   91  git status
+   92  git init
+   93  git add .
+   94  git commit "programs added"
+   95  git commit -m "programs added"
+   96  git push origin master
+   97  git init
+   98  git add .
+   99  git init
+  100  git add .
+  101  git status
+  102  git commit -m "programs addded"
+  103  git remote add origin https://github.com/ssamidha/BootCampPrograms.git
+  104  git push -u origin master
+  105  sudo dpkg -i code_1.40.0-1573064499_amd64.deb
+  106  node page1.js
+  107  sudo apt install nodejs
+  108  node page1.js
+  109  sudo apt-get install npm
+  110  node page1.js
+  111  node page1.js
+  112  node reverce_string
+  113  node coin.js
+  114  clear
+  115  cd functional_program/
+  116  node replace_str.js 
+  117  git init
+  118  clear
+  119  echo 
+  120  "# felloship_program" >> README.md
+  121  echo "# Felloship_program" >> README.md
+  122  git init
+  123  git add " https://github.com/harshalipandurnagbadgujar/program_fellowship.git"
+  124  git init
+  125  git add .md
+  126  git add README.md
+  127  git commit -m "first commit"
+  128  git add "readline-sync"
+  129  cd functional_program/
+  130  node replace_str.js 
+  131  npm install readline-sync
+  132  node replace_str.js 
+  133  node rev_str.js
+  134  node flip_coin.js
+  135  echo "# hhh" >> README.md
+  136  git init
+  137  git add .
+  138  git commit -m "13/11/2019"
+  139  git remote add origin https://github.com/dabhade904/FellowshipProgram.git
+  140  git push -u origin master
+  141  git init
+  142  git add .
+  143  git commit -m "14/11/2019"
+  144  git remote add origin https://github.com/dabhade904/FellowshipProgram.git
+  145  git push -u origin master
+  146  git push -f origin master
+  147  git init
+  148  git add .
+  149  git push -f origin master
+  150  git init
+  151  git branch
+  152  git remote remove origin
+  153  git init
+  154  git remote remove origin
+  155  git branch
+  156  clear
+  157  git add .
+  158  git commit -m "java programs updated"
+  159  git remote add origin https://github.com/dabhade904/FellowshipPrograms.git
+  160  git push -u origin master
+  161  git init
+  162  git add .
+  163  git commit -m FellowshipPrograms commit
+  164  git commit -m "FellowshipPrograms commit"
+  165  git commit -m "First commit"
+  166  git init
+  167  git add .
+  168  git commit -m "Felloship profram"
+  169  git push -u origin master
+  170  git init
+  171  git add .
+  172  git push -u origin master
+  173  git init
+  174  git add .
+  175  git push -u origin master
+  176  git init
+  177  git add .
+  178  git push -u origin master
+  179  git init
+  180  git add .
+  181  git push -f origin master
+  182  git remote-v
+  183  git init
+  184  git add -A
+  185  git commit -m "Added my project"
+  186  git branch
+  187  git commit -m "Added my project"
+  188  git branch
+  189  git push -u origin master
+  190  git init
+  191  git add .
+  192  git push -u origin master
+  193  git init
+  194  git add .
+  195  git push -u origin master
+  196  git init
+  197  git add .
+  198  git push -f origin master
+  199  git init
+  200  git add .
+  201  git push -f origin master
+  202  git init
+  203  git add .
+  204  git push -u origin master
+  205  git branch
+  206  git push -u origin master
+  207  git remote add origin https://github.com/dabhade904/FellowshipPrograms.git
+  208  git commit -m "java programs updated"
+  209  git init
+  210  git add .
+  211  git commit -m "java programs updated"
+  212  git init
+  213  git add .
+  214  git push -f origin master
+  215  git init
+  216  git add .
+  217  git push -f origin master
+  218  clear
+  219  ls
+  220  git global --config
+  221  git config --global
+  222  git config --global user.name
+  223  git config --global user.name sachindabhade
+  224  git config --global user.email dabhade904@gmail.com
+  225  git init
+  226  git init
+  227  git add .
+  228  git commit -m "Fellowship programs" 
+  229  git init 
+  230  git add remote origin https://github.com/dabhade904/FellowShipProgram.git
+  231  git add .
+  232  git commit -m "FellowShip Programs"
+  233  git push -u origin master
+  234  git config --global user.name
+  235  git remote add origin https://github.com/dabhade904/FellowShipProgram.git
+  236  git push -u origin master
+  237  git init 
+  238  git add .
+  239  git commit -m "Data Structure"
+  240  git push -u origin master
+  241  git init 
+  242  git add .
+  243  git push -u origin master
+  244  git push -f origin master
+  245  git init 
+  246  git add .
+  247  git commit -m "Data Structure"
+  248  git push -u origin master
+  249  git init
+  250  git add.
+  251  git init
+  252  git add .
+  253  git commit -m "Data Structure"
+  254  git push -u origin master
+  255  git init 
+  256  git add .
+  257  git commit -m "Data Structure"
+  258  git push -u origin master
+  259  git init 
+  260  git add .
+  261  git commit -m "Data Structure"
+  262  git push -u origin master
+  263  git init
+  264  git add.
+  265  git add .
+  266  git commit -m "algorithm"
+  267  git push -u origin master
+  268  java -version
+  269  javac
+  270  cd c:
+  271  java -version
+  272  sudo apt install openjdk-11-jdk
+  273  java -v
+  274  java -version
+  275  git init
+  276  git add .
+  277  git commit -m "first commit"
+  278  git remote add origin https://github.com/coolgimmy7/GimmyBridgelab.git
+  279  git push -u origin master https://github.com/coolgimmy7/GimmyBridgelab.git
+  280  git push -u origin master
+  281  git status
+  282  git checkout programe
+  283  git branch
+  284  git status
+  285  git checkout -b ganesh
+  286  git checkout ganesh
+  287  git branch
+  288  git push -u origin ganesh
+  289  git commit -a
+  290  git init
+  291  git add .
+  292  git commit -m "first commit"
+  293  git push -u origin ganesh https://github.com/coolgimmy7/GimmyBridgelab.git
+  294  git checkout ganesh
+  295  git push -u origin ganesh
+  296  git checkout ganesh
+  297  git commit -m "first commit"
+  298  git status
+  299  git init
+  300  git add .
+  301  git checkout ganesh
+  302  git commit -m "first commit"
+  303  git push -u origin ganesh
+  304  git checkout ganesh
+  305  git branch
+  306  git init
+  307  git add .
+  308  git commit -m "new "
+  309  git push -u origin ganesh
+  310  exit
+  311  git init
+  312  git add .
+  313  git commit -m "new programs"
+  314  git push -u origin ganesh
+  315  exit
+  316  git init
+  317  git add .
+  318  git commit -m "new programs"
+  319  git push -u origin ganesh
+  320  git push -u origin master
+  321  git checkout ganesh
+  322  git checkout master
+  323  git push -u origin master
+  324  git checkout master
+  325  git init
+  326  git add .
+  327  git commit -m "new programs"
+  328  git push -u origin master
+  329  git checkout ganesh
+  330  git init
+  331  git add .
+  332  git commit -m "new programs"
+  333  git checkout ganesh
+  334  git push -u origin ganesh
+  335  git init
+  336  git add .
+  337  git commit -m "programs'
+  338  git commit -m "programs"
+  339  git push -u origin ganesh https://github.com/coolgimmy7/GaneshBridgelabz.git
+  340  git push -u origin master https://github.com/coolgimmy7/GaneshBridgelabz.git
+  341  git commit -m "first commit"
+  342  git push -u origin master https://github.com/coolgimmy7/GaneshBridgelabz.git
+  343  git remote add origin https://github.com/coolgimmy7/GaneshBridgelabz.git
+  344  git push -u origin master
+  345  git init
+  346  git add .
+  347  git commit -m "programs"
+  348  git remote add origin https://github.com/coolgimmy7/GaneshBridgelabz.git
+  349  git push -u origin master
+  350  git init
+  351  git add .
+  352  git commit -m "programs"
+  353  git remote add origin https://github.com/coolgimmy7/GaneshBridgelabz.git
+  354  git push -u origin master
+  355  git init
+  356  git add .
+  357  git push -u origin master
+  358  git commit -m "programs"
+  359  git push -u origin master
+  360  git clone https://github.com/coolgimmy7/GaneshBridgelabz.git
+  361  git init
+  362  git add .
+  363  git commit -m "Added:primenumber and binary search tree"
+  364  git remote add origin https://github.com/coolgimmy7/GaneshBridgelabz.git
+  365  git push -u origin master
+  366  exit
+  367  git clone https://github.com/coolgimmy7/GaneshBridgelabz.git
+  368  git init
+  369  git add .
+  370  git remote add origin https://github.com/coolgimmy7/GaneshBridgelabz.git
+  371  git config --global user:name
+  372  git config --global user.name "Ganesh"
+  373  git clone https://github.com/coolgimmy7/GaneshBridgelabz.git
+  374  git remote add origin https://github.com/coolgimmy7/GaneshBridgelabz.git
+  375  git commit -m "Added:Calender"
+  376  git push -u origin master
+  377  git init
+  378  git add .
+  379  git remote add origin https://github.com/coolgimmy7/GaneshBridgelabz.git
+  380  git commit -m "Added:Calender"
+  381  git push -u origin master
+  382  git init
+  383  git add .
+  384  git commit -m "Added:Calender"
+  385  git config --global user:name
+  386  git config --global user:name "ganesh"
+  387  git push -u origin master
+  388  git config --global user.name "Ganesh"
+  389  git init
+  390  git add .
+  391  git commit -m "Added:DaysOfWeek"
+  392  git remote add origin https://github.com/coolgimmy7/GaneshBridgelabz.git
+  393  git push -u origin master
+  394  git config --global user:name
+  395  git config --global user.name
+  396  git config --global user.email
+  397  git config --global user.email "coolgimmy7@gmail.com"
+  398  git config --global user.email
+  399  git init
+  400  git add .
+  401  git remote add origin https://github.com/coolgimmy7/GaneshBridgelabz.git
+  402  git commit -m "Added:calenderStack"
+  403  git push -u origin master
+  404  xit
+  405  exit
+  406  git init
+  407  git add .
+  408  git status
+  409  git remote add origin https://github.com/coolgimmy7/GaneshBridgelabz.git
+  410  git commit -m "Modified:TicTacToe and Utility "
+  411  git push -u origin master
+  412  git init
+  413  git add .
+  414  git status
+  415  git init
+  416  git add .
+  417  git status
+  418  git init
+  419  git add .
+  420  git status
+  421  git commit -m "Modified:Datastructure and algorithm package files"
+  422  git push -u origin master
+  423  git init
+  424  git add .
+  425  git status
+  426  git init
+  427  git add .
+  428  git status
+  429  git commit -m "Added:AddressBook"
+  430  git push -u origin master
+  431  git init
+  432  git add README.md
+  433  git add src
+  434  git init
+  435  git add README.md
+  436  get init
+  437  git init
+  438  git add README.md
+  439  ls
+  440  git add src
+  441  git commit -m "Hello"
+  442  git add src
+  443  git init
+  444  git add README.md
+  445  git add *
+  446  git init
+  447  ll
+  448  git init
+  449  ll
+  450  git add *
+  451  git commit -m "Hello"
+  452  git init
+  453  git add *
+  454  git init
+  455  git add README.md
+  456  clear
+  457  git init
+  458  git add README.md
+  459  git init
+  460  git add Coupons.java
+  461  git commit -m "first commit"
+  462  git remote add origin https://github.com/karthikkarotra/Pre-Fellowship-.git
+  463  git push -u origin master
+  464  git init
+  465  git add *
+  466  git commit -m "commit all"
+  467  git remote add origin https://github.com/karthikkarotra/Pre-Fellowship-.git
+  468  git push -u origin master
+  469  git init
+  470  git commit -m "1"
+  471  git remote add origin https://github.com/karthikkarotra/Pre-Fellowship-.git
+  472  git push -u origin master
+  473  git initclear
+  474  java - version
+  475  java-version
+  476  java -version
+  477  git --version
+  478  cd Karthik/
+  479  cd Karthik1/
+  480  cd Karthik/
+  481  cd Desktop/
+  482  cd Karthik/
+  483  ls
+  484  cd Desktop/
+  485  mkdir Karthik
+  486  cd Karthik/
+  487  git --version
+  488  git clone https://github.com/edurekavivekh/linux-content.git
+  489  cd linux-content/
+  490  ls
+  491  pwd
+  492  ls
+  493  ls .
+  494  ls ..
+  495  ls . .
+  496  ls .
+  497  ls ..
+  498  ls ~
+  499  ls /
+  500  ls -a
+  501  ls -l
+  502  mkdir temp
+  503  rm -R temp
+  504  mkdir -p temp/temp
+  505  ls
+  506  cd temp
+  507  touch test
+  508  ls -p
+  509  cp test test1
+  510  ls -p
+  511  mv test1 test2
+  512  ls -p
+  513  ln -s test temp/
+  514  ls -p temp/
+  515  ln -s ../linux-content/linux_chit_sheet.pdf ~/QuickLink/
+  516  ls -l ~/QuickLink/
+  517  whereis ls
+  518  ls /bin
+  519  man ls
+  520  cd Karthik
+  521  cd TerminalCommands/
+  522  git --version
+  523  git clone https://github.com/edurekavivekh/linux-cintent.git
+  524  cd Karthik
+  525  cd TerminalCommands/
+  526  git --version
+  527  git clone https://github.com/edurekavivekh/linux-content.git
+  528  ls
+  529  cd linux-content/
+  530  ls
+  531  pwd
+  532  ls ~
+  533  clear
+  534  ls ~
+  535  ls
+  536  ls .
+  537  ls ..
+  538  ls ~
+  539  ls a
+  540  ls -a
+  541  ls -al
+  542  ls -l
+  543  mkdir temp
+  544  rm -R temp
+  545  mkdir -p temp/temp
+  546  ls
+  547  cd temp
+  548  pwd
+  549  ls
+  550  toucyh test
+  551  touch test
+  552  ls -p
+  553  cp test test1
+  554  ls -p
+  555  mv test1 test2
+  556  ls -p
+  557  cd ..
+  558  mkdir temp
+  559  ls
+  560  rm -R temp
+  561  mkdir -p temp/temp
+  562  ls
+  563  cd temp
+  564  ls ..
+  565  cd ..
+  566  mkdir -p temp/temp
+  567  ls
+  568  cd temp
+  569  pwd
+  570  ls
+  571  touch test
+  572  ls -p
+  573  cp test test1
+  574  ls -p
+  575  mv test1 test2
+  576  ls -p
+  577  ln -s test temp/
+  578  ls -p temp/
+  579  ln -s ../linux-content/linux_chit_sheet.pdf ~/QuickLink/
+  580  ls -l ~/QuickLink/
+  581  ln -s ../TerminalCommands/linux-content/linux_chit_sheet.pdf ~/QuickLink/
+  582  ls -l ~/QuickLink/
+  583  ln -s ../TerminalCommands/linux-content/linux_chit_sheet.pdf ~/QuickLink/
+  584  ls -l ~/QuickLink/
+  585  ln -s ../Karthik/TerminalCommands/linux-content/linux_chit_sheet.pdf ~/QuickLink/
+  586  ls -l ~/QuickLink/
+  587  whereis ls
+  588  ls
+  589  whereis ls
+  590  ls .bin
+  591  ls /bin
+  592  man ls
+  593  ls -l /etc/passwd
+  594  less /etc/passwd
+  595  head /etc/passwd
+  596  ls ..
+  597  cd ..
+  598  find . -size +5M
+  599  find . -size +5M -name *.pdf
+  600  find . -size +5M -name *.pdf type -f
+  601  find . -size +5M  type -f
+  602  find . -size +5M  type -f *.pdf
+  603  find . -size +5M type -f 
+  604  find . -size +5M -type f 
+  605  find . -size +5M -type f | grep pdf
+  606  cd linux-content
+  607  ls
+  608  cat data.csv
+  609  cat data.csv | grep CAPTAIN
+  610  find linux-content -name *.csv
+  611  find linux-content/ -name *.csv 
+  612  cd ..
+  613  find linux-content/ -name *.csv 
+  614  grep CAPTAIN linux-content/data.csv
+  615  grep CAPTAIN data.csv
+  616  grep CAPTAIN linux-content/data.csv
+  617  grep -i captain linux-content/data.csv
+  618  grep -ir captain
+  619  ls linux-content/
+  620  ls linux-content/data.csv
+  621  ls -p 
+  622  touch a.txt
+  623  ls
+  624  ls -p |grep /
+  625  ls -p | -v grep /
+  626  ls -p |grep -v /
+  627  cd linux-content
+  628  env
+  629  env |grep USER
+  630  echo $USER
+  631  echo $USERNAME
+  632  env |grep USERNAME
+  633  bash -version
+  634  du -sh linux-content
+  635  cd ..
+  636  du -sh linux-content
+  637  du -sm linux-content
+  638  du -sk linux-content
+  639  du -sk linux-content/*
+  640  du -sk linux-content/* | sort n
+  641  du -sk linux-content/* |sort n
+  642  du -sk linux-content/* |sort -n
+  643  du -sk linux-content/* |sort -nr
+  644  ls
+  645  cd temp
+  646  ls
+  647  nano HelloWorld.java
+  648  nano -T 3 HelloWorld.java
+  649  java HelloWorld
+  650  nano -T 3 HelloWorld.java
+  651  java HelloWorld
+  652  java HelloWorld.java
+  653  nano -T 3 HelloWorld.java
+  654  java HelloWorld.java
+  655  nano -T 3 HelloWorld.java
+  656  java HelloWorld.java
+  657  nano -T 3 HelloWorld.java
+  658  java HelloWorld.java
+  659  nano -T 3 HelloWorld.java
+  660  java HelloWorld.java
+  661  nano -T 3 HelloWorld.java
+  662  java HelloWorld.java
+  663  nano -T 3 HelloWorld.java
+  664  java HelloWorld.java
+  665  history
+  666  history > Shellscriptday1
+  667  cat Shellscriptday1
+  668  commit
+  669  cd Desktop
+  670  nano -T 3 HelloWorld.java
+  671  java -version
+  672  cd Karthik
+  673  ls
+  674  cd TerminalCommands
+  675  ls
+  676  cd linux-content/
+  677  ls
+  678  cd ..
+  679  ls
+  680  cd temp
+  681  mls
+  682  ls
+  683  nano -T 3 HelloWorld.java
+  684  java HelloWorld.java
+  685  java HelloWorld.javA
+  686  java HelloWorld.java
+  687  jobs
+  688  fg %1
+  689  jobs
+  690  bg %1
+  691  jobs
+  692  ps -elf
+  693  pjobs
+  694  ps -elf |grep java
+  695  ps -elf |grep
+  696  ps -elf |grep java |grep -v grep
+  697  jobs
+  698  fg %1
+  699  jobs
+  700  java HelloWorld.java &
+  701  jobs
+  702  ps -elf |grep java |grep -v grep
+  703  kill -9 4079
+  704  jobs
+  705  java HelloWorld.java &
+  706  jobs
+  707  ps -elf |grep java |grep -v grep
+  708  kill %1
+  709  jobs
+  710  java HelloWorld.java &
+  711  ps -elf |grep java |grep -v grep
+  712  ps -elf |grep java |grep -v grep |awk '{print $2}'
+  713  ps -elf |grep java |grep -v grep |awk '{print $4}'
+  714  ps -elf |grep java |grep -v grep
+  715  kill -9 ps -elf |grep java |grep -v grep |awk '{print $4}'
+  716  ps -elf|more
+  717  ps -elf |grep java |grep -v grep
+  718  kill -9 ps -elf |grep java |grep -v grep |awk '{print $4}'
+  719  kill -9 `ps -elf |grep java |grep -v grep |awk '{print $4}'`
+  720  jobs
+  721  clear
+  722  history |java
+  723  history | java
+  724  history| java
+  725  history |grep java
+  726  jobs
+  727  java HelloWorld.java &
+  728  jobs
+  729  clear
+  730  myPid=`ps -elf |grep java |grep -v grep |awk '{print $4}'`
+  731  jobs
+  732  echo $myPid
+  733  kill -9 $myPid
+  734  jobs
+  735  java HelloWorld.java &
+  736  jobs
+  737  killall java
+  738  jobs
+  739  echo Hello Tom
+  740  echo Hello Tom | awk '{$2=Adam}'
+  741  echo Hello Tom | awk '{$2=Adam} {print $0}'
+  742  echo Hello Tom | awk '{$2="Adam"} {print $0}'
+  743  cd ..
+  744  ls
+  745  cd linux-content/
+  746  ls
+  747  clear
+  748  cat data.csv 
+  749  cat data.csv |grep -i captain
+  750  cat data.csv |grep -i captain | awk ''
+  751  cat data.csv |grep -i captain | awk '{print $2 " " $4}'
+  752  cat data.csv |grep -i captain | awk '{sum+=$4} END{print sum}'
+  753  cat data.csv |grep -i captain | awk '{sum+=$4} END{print sum/NR}'
+  754  cat data.csv |grep -i captain | awk '{sum+=$4} {print sum}'
+  755  cd ..
+  756  ls
+  757  rm a.txt
+  758  ls
+  759  touch abc.txt def.txt
+  760  clear
+  761  ls
+  762  ls *.txt
+  763  for file in `ls *.txt`; do echo $file; done
+  764  for file in `ls *.txt`; do folderName=`echo file | awk -f. '{print $1}'`; echo folderName; done
+  765  for file in `ls *.txt`; do folderName=`echo $file |awk -f. '{print $1}';
+  766  echo folderName;
+  767  done
+  768  for file in `ls *.txt`; do folderName=`echo $file |awk -F. '{print $1}'`; echo folderName; done
+  769  for file in `ls *.txt`; do folderName=`echo $file |awk -F.'{print $1}'`; echo folderName; done
+  770  for file in `ls *.txt`; do folderName=`echo $file |awk -F.'{print $1}'`; echo $folderName; done
+  771  for file in `ls *.txt`; do folderName=`echo $file |awk -F. '{print $1}'`; echo $folderName; done
+  772  clear
+  773  for file in `ls *.txt`; do folderName=`echo $file |awk -F. '{print $1}'`; mkdir folderName; done
+  774  for file in `ls *.txt`; do folderName=`echo $file |awk -F. '{print $1}'`; mkdir $folderName; done
+  775  ls
+  776  ls -p
+  777  for file in `ls *.txt`; do folderName=`echo $file |awk -F. '{print $1}'`; mkdir $folderName; done
+  778  ls
+  779  ls -p
+  780  rm folderName/
+  781  rm $folderName
+  782  ls -f
+  783  clear
+  784  ls -f
+  785  ls -p
+  786  for file in `ls *.txt`; do folderName=`echo $file |awk -F. '{print $1}'`; rm -r $folderName; cp $file $foldername; done
+  787  for file in `ls *.txt`; do folderName=`echo $file |awk -F. '{print $1}'`; rm -r $folderName; cp $file $folderName; done
+  788  ls
+  789  ls -p
+  790  for file in `ls *.txt`; do folderName=`echo $file |awk -F. '{print $1}'`; mkdir $folderName; done
+  791  ls -p
+  792  for file in `ls *.txt`; do folderName=`echo $file |awk -F. '{print $1}'`; mkdir $folderName; done
+  793  ls -p
+  794  for file in `ls *.txt`; do folderName=`echo $file |awk -F. '{print $1}'`; rm -r $folderName; cp $file $folderName; done
+  795  ls abc def
+  796  for file in `ls *.txt`; do folderName=`echo $file |awk -F. '{print $1}'`; mkdir $folderName; done
+  797  ls -p
+  798  for file in `ls *.txt`; do folderName=`echo $file |awk -F. '{print $1}'`; rm -r $folderName; mkdir $folderName; cp $file $ folderName; done
+  799  for file in `ls *.txt`; do folderName=`echo $file |awk -F. '{print $1}'`; rm -r $folderName; mkdir $folderName; cp $file $folderName; done
+  800  ls -p
+  801  ls abc def
+  802  clear
+  803  less forloop.sh
+  804  nano forloop.sh
+  805  cd Karthik
+  806  ls
+  807  cd TerminalCommands/
+  808  LS
+  809  ls
+  810  less forloop.sh
+  811  nano copyfiles.sh
+  812  ls -l copyfiles.sh 
+  813  chmod +x copyfiles.sh
+  814  ls -l copyfiles.sh 
+  815  ./copyfiles.sh
+  816  nano copyfiles.sh 
+  817  ./copyfiles.sh
+  818  nano -T 3 copyfiles.sh 
+  819  ./copyfiles.sh
+  820  nano -T 3 copyfiles.sh 
+  821  ./copyfiles.sh
+  822  nano -T 3 copyfiles.sh 
+  823  ./copyfiles.sh
+  824  nano -T 3 copyfiles.sh 
+  825  ./copyfiles.sh
+  826  nano -T 3 copyfiles.sh 
+  827  ./copyfiles.sh
+  828  clear
+  829  nano -T 3 first.sh
+  830  bash -x ./copyfiles.sh
+  831  bash -x ./first.sh
+  832  nano -T 3 first.sh
+  833  bash -x ./first.sh
+  834  nano -T 3 first.sh
+  835  bash -x ./first.sh
+  836  nano -T 3 first.sh
+  837  bash -x ./first.sh
+  838  nano -T 3 first.sh
+  839  bash -x ./first.sh
+  840  clear
+  841  ls
+  842  cd linux-content/
+  843  ls
+  844  clear
+  845  cat data.csv 
+  846  history
+  847  clear
+  848  cat data.csv 
+  849  cat data.csv | grep BasePay>100000
+  850  cat data.csv | grep BasePay>100000 | awk '{print $1}'
+  851  cat data.csv | awk '{print $2 " " $4>100000}'
+  852  bash -x ./first.sh
+  853  nano -T 3 first.sh
+  854  cd ..
+  855  nano -T 3 first.sh
+  856  ls
+  857  cd linux-content/
+  858  clear
+  859  cat data.csv 
+  860  cat data.csv | awk '{greater=$4>100000} END{print $4}'
+  861  cat data.csv | awk '{greater=$4>100000} {print $4}'
+  862  cat data.csv | awk '{greater=$4>100000} {print $4>100000}'
+  863  for f in data.csv; do
+  864  cat data.csv | awk '{greater=$4>100000} {print r $4}'
+  865  cat data.csv | awk {print r $4}' | grep >100000
+  866  cat data.csv | awk {print r $4}' | awk '{print $1>100000}'
+  867  clear
+  868  cat data.csv 
+  869  for i in `cat data.csv | awk '{print $2 " " $4}'`; do if [ $i -g 10000 ]; then cat data.csv | grep "$i"; fi; done
+  870  for i in `cat data.csv | awk '{print $2 " " $4}'`; do if [ $i -> 10000 ]; then cat data.csv | grep "$i"; fi; done
+  871  for i in `cat data.csv | awk '{print $4}'`; do if [ $i -> 10000 ]; then cat data.csv | grep "$i"; fi; done
+  872  for i in `cat data.csv | awk '{print $4}'`; do if [ $i > 10000 ]; then cat data.csv | grep "$i"; fi; done
+  873  for i in `cat data.csv | awk '{print $4}'`; do if [ $i > 100000 ]; then cat data.csv | grep "$i"; fi; done
+  874  for i in `cat data.csv | awk '{print $4}'`; do if [ $i -ge 100000 ]; then cat data.csv | grep "$i"; fi; done
+  875  for i in `cat data.csv | awk '{print $4}'`; do if [ $i -ge 100000 ]; then print $2 $4; | grep "$i"; fi; done
+  876  for i in `cat data.csv | awk '{print $4}'`; do if [ $i -ge 100000 ]; then print $2 $4; fi; done
+  877  for i in `cat data.csv | awk '{print $4}'`; do if [ $i -ge 100000 ]; then cat data.csv | grep "$i" | awk '{$2 " " $4}'; fi; done
+  878  clear
+  879  for i in `cat data.csv | awk '{print $4}'`; do if [ $i -ge 100000 ]; then cat data.csv | grep "$i"; fi;
+  880  cat data.csv
+  881  cat data.csv | awk '{$4 > 100000} {print $2 $4}'
+  882  cat data.csv | awk '{$4 > 500000} {print $2 $4}'
+  883  history > karthik12.txt
